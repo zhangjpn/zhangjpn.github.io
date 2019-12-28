@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 对libra的一点思考
+title: libra
 date: 2019-06-30 02:00:00 +0800
 categories: jekyll
 ---
