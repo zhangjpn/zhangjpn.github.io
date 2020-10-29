@@ -20,8 +20,6 @@ categories: jekyll
 xcode-select --install
 ```
 
-### 什么是ruby
-
 ## 相关命令
 
 ```bash
